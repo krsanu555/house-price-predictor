@@ -34,6 +34,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 6. Run jupyter files you want
+
   -house-price-predictor.ipynb
   
 7. Deactivate environment (if created and activated before)
